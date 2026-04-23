@@ -83,15 +83,15 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">2</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Спикера</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">1</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Спикер</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">3 ч</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">2 ч</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Длительность</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">20</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">10</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Мест</p>
               </div>
             </div>
