@@ -73,7 +73,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mb-2">Длительность</p>
-                <p className="text-foreground">3 часа, включая практику</p>
+                <p className="text-foreground">2 часа, включая практику</p>
               </div>
             </div>
           </div>
