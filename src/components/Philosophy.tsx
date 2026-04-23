@@ -32,8 +32,8 @@ export function Philosophy() {
             }`}
           >
             <img
-              src="/minimalist-japanese-interior-design-with-natural-w.jpg"
-              alt="Минималистичный интерьер с натуральным деревом"
+              src="https://cdn.poehali.dev/projects/7ec6a87b-6e12-468b-a44f-18e595178335/files/1609233e-ea7e-41ab-8026-7b421cc69ead.jpg"
+              alt="Врач и инструктор по йоге — спикеры мероприятия"
               className="absolute inset-0 w-full h-full object-cover"
             />
             {/* Overlay accent */}
@@ -47,7 +47,7 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
               }`}
             >
-              Наша философия
+              О мероприятии
             </p>
 
             <h2
@@ -55,10 +55,10 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
+              Забота о теле —
+              <span className="italic"> изнутри</span>
               <br />
-              жизни
+              и снаружи
             </h2>
 
             <div
@@ -67,13 +67,12 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Женское здоровье — это не только визиты к врачу. Это ежедневная практика осознанного движения,
+                понимания своего тела и внимания к гормональному балансу.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                На этой встрече врач-гинеколог и инструктор по йоге объединяют медицину и практику,
+                чтобы дать вам <em className="text-foreground">конкретные инструменты</em> для жизни в гармонии со своим телом.
               </p>
             </div>
 
@@ -84,16 +83,16 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">2</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Спикера</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">3 ч</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Длительность</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">20</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Мест</p>
               </div>
             </div>
           </div>
